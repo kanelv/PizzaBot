@@ -28,6 +28,6 @@ PizzaBot is a Telegram Bot that helps you order pizza. It is built on top of Spr
 ## Installation
 
 ## Contact
-Email: cuonglvrepvn@gmail.com
-GitHub: kanelv
-LinkedIn: kanele
+- Email: cuonglvrepvn@gmail.com
+- GitHub: [kanelv](https://github.com/kanelv)
+- LinkedIn: [kanele](https://www.linkedin.com/in/kanele/)
